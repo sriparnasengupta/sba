@@ -8,14 +8,14 @@ namespace ProjectManagement.BC
 {
     public class UserBC
     {
-        DAC.ProjectManagerEntities dbContext = null;
+        DAC.ProjectManagementEntities dbContext = null;
 
         public UserBC()
         {
-            dbContext = new DAC.ProjectManagerEntities();
+            dbContext = new DAC.ProjectManagementEntities();
         }
 
-        public UserBC(DAC.ProjectManagerEntities context)
+        public UserBC(DAC.ProjectManagementEntities context)
         {
             dbContext = context;
         }

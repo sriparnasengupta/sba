@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\LoadTest\bin\Debug\WebTest1.webtest
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\LoadTest\bin\Debug\WebTest2.webtest
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\LoadTest\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\LoadTest\obj\Debug\LoadTest.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\LoadTest\obj\Debug\LoadTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\LoadTest\obj\Debug\LoadTest.csproj.CopyComplete
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\LoadTest\obj\Debug\LoadTest.dll
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\LoadTest\obj\Debug\LoadTest.pdb

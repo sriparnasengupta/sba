@@ -45,3 +45,27 @@ c:\users\administrator\documents\visual studio 2017\Projects\ProjectManagement\P
 c:\users\administrator\documents\visual studio 2017\Projects\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Http.WebHost.xml
 c:\users\administrator\documents\visual studio 2017\Projects\ProjectManagement\ProjectManagement.Tests\obj\Debug\ProjectManagement.Tests.dll
 c:\users\administrator\documents\visual studio 2017\Projects\ProjectManagement\ProjectManagement.Tests\obj\Debug\ProjectManagement.Tests.pdb
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.Tests.dll
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.Tests.pdb
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManagement.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.dll
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManagement.Tests\bin\Debug\NLog.dll
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManagement.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.pdb
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.dll.config
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManagement.Tests\bin\Debug\NLog.xml
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManagement.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManagement.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManagement.Tests\obj\Debug\ProjectManagement.Tests.dll
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManagement.Tests\obj\Debug\ProjectManagement.Tests.pdb
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManagement.Tests\obj\Debug\ProjectManagement.Tests.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManagement.Tests\obj\Debug\ProjectManagement.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManagement.Tests\obj\Debug\ProjectManagement.Tests.csproj.CopyComplete
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManagement.Tests\bin\Debug\ProjectManagement.Tests.dll.config
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManagement.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManagement.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManagement.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManagement.Tests\bin\Debug\EntityFramework.SqlServer.xml

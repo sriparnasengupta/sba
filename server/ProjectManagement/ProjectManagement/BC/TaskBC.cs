@@ -8,13 +8,13 @@ namespace ProjectManagement.BC
 {
     public class TaskBC
     {
-        DAC.ProjectManagerEntities dbContext = null;
+        DAC.ProjectManagementEntities dbContext = null;
         public TaskBC()
         {
-            dbContext = new DAC.ProjectManagerEntities();
+            dbContext = new DAC.ProjectManagementEntities();
         }
 
-        public TaskBC(DAC.ProjectManagerEntities context)
+        public TaskBC(DAC.ProjectManagementEntities context)
         {
             dbContext = context;
         }

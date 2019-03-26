@@ -13,10 +13,10 @@ namespace ProjectManagement.DAC
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class ProjectManagerEntities : DbContext
+    public partial class ProjectManagementEntities : DbContext
     {
-        public ProjectManagerEntities()
-            : base("name=ProjectManagerEntities")
+        public ProjectManagementEntities()
+            : base("name=ProjectManagementContext")
         {
         }
     
