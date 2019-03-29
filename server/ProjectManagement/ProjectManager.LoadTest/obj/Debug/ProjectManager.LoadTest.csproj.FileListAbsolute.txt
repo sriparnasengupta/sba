@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManager.LoadTest\bin\Debug\WebTest1.webtest
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManager.LoadTest\bin\Debug\LoadTest1.loadtest
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManager.LoadTest\bin\Debug\ProjectManager.LoadTest.dll
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManager.LoadTest\bin\Debug\ProjectManager.LoadTest.pdb
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManager.LoadTest\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManager.LoadTest\obj\Debug\ProjectManager.LoadTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManager.LoadTest\obj\Debug\ProjectManager.LoadTest.csproj.CopyComplete
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManager.LoadTest\obj\Debug\ProjectManager.LoadTest.dll
+C:\Users\Administrator\Desktop\sba-exercise\server\ProjectManagement\ProjectManager.LoadTest\obj\Debug\ProjectManager.LoadTest.pdb

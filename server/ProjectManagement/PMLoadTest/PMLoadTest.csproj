@@ -59,6 +59,12 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ProjectManagement.Tests\ProjectManagement.Tests.csproj">
+      <Project>{2b1a4ba2-ded1-43b1-a7af-cd3946a03dc6}</Project>
+      <Name>ProjectManagement.Tests</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>
